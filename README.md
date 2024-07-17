@@ -4,4 +4,4 @@
 </p>
 
 
-<center> <h1>Pablo Zallio - Frontend Developer</h1> </center> 
+<h1 style=" text-align: center ">Pablo Zallio - Frontend Developer</h1>
