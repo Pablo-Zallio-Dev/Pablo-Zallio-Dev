@@ -6,39 +6,27 @@
 
 # Pablo Zallio - Frontend Developer 
 
-## Hola 🙋‍♂️, soy Pablo. un placer verte por aqui!
+ Hello 🙋‍♂️, my name is Pablo, I'm a ***Frontend developer*** and I'm passionate about transforming ideas into attractive and functional experiences, always learning and improving my skills.
 
-Me encanta la idea de materializar ideas, diseños y proyectos, por eso soy un apasionado al ***Desarrollo Frontend.***
+Here you can learn a little more about me, what I know and what I do.
 
-Sin entrar en tecnicismos te cuento un poquito sobre mi, lo que se, y lo que te ofrezco
+## Projects 👷‍♂️
 
-📚 Formacion 100% autodidacta
+| Project | Image | Description | Tecnologies |
+| --- | --- | --- | --- |
+| [QR Component](https://component-qr-card.netlify.app/) | ![](./thumbnail-proyects/thumbnail-qr.jpg) | Card with QR code | HTML, CSS, Tailwind
+| [Recipe page](https://rice-page.netlify.app/) | ![](./thumbnail-proyects/thumbnail-rice-page.jpg) | Recipes page | HTML, Css, Tailwind
 
-🛠 Bases solidas en estructuras y contenido dinamico con ***HTML***, ***CSS*** Y ***JavaScript***
-
-🚀 Si quieres algo mas rapido pero con los mismos resultados y la maxima calidad tambien manejo framworks como ***Taildwind*** o ***Bootstrap***
-
-...
-
-🎁 Y como extra tambien me puedo encargar del contendio multimedia de tu proyecto realizando las fotografias o videos del 
-mismo!
-
-
-
-## Tecnologias.
-![https://developer.mozilla.org/es/docs/Glossary/HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Contact 👇
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablo-Zallio-Dev)
 
 
 
-## Me encontras por aqui! 👇
 
 
 
- ### 📧 pablozalliodev@gmail.com
-
- ### 💼 [Linkedin](https://www.linkedin.com/in/pablo-damian-zallio-zabala-140b83278/)
-
-## Por aqui te dejo algunos trabajos 🔽
 
 
 
