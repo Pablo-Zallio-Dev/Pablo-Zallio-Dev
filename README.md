@@ -4,29 +4,57 @@
 </p>
 
 
-# Pablo Zallio - Frontend Developer 
-
- Hello 🙋‍♂️, my name is Pablo, I'm a ***Frontend developer*** and I'm passionate about transforming ideas into attractive and functional experiences, always learning and improving my skills.
-
-Here you can learn a little more about me, what I know and what I do.
-
-## Projects 👷‍♂️
-
-| Project | Image | Description | Tecnologies |
-| --- | --- | --- | --- |
-| [QR Component](https://component-qr-card.netlify.app/) | ![](./thumbnail-proyects/thumbnail-qr.jpg) | Card with QR code | HTML, CSS, Tailwind
-| [Recipe page](https://rice-page.netlify.app/) | ![](./thumbnail-proyects/thumbnail-rice-page.jpg) | Recipes page | HTML, Css, Tailwind
-
-## Contact 👇
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablo-Zallio-Dev)
+<center> <h1> Pablo Zallio - Frontend Developer </h1> </center>
 
 
+ Hola 🙋‍♂️, mi nombre es Pablo, soy ***Frontend developer*** y me apasiona transformar ideas en experiencias atractivas y funcionales, siempre aprendiendo y mejorando mis habilidades.
+
+Aquí podrás conocer un poco más sobre mí, lo que sé y lo que hago.
+
+<center>
+<a href="https://github.com/Pablo-Zallio-Dev"><img src="https://img.shields.io/badge/GitHub-grey?style=plastic&logo=github&logoColor=white&labelColor=black"></a>
+<a href="https://www.linkedin.com/in/pablo-zallio-140b83278/"><img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=white&labelColor=black"></a>
+<a href="mailto:pablozalliodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white&labelColor=black
+"></a>
+
+</center>
+
+
+<center><h2 style="margin-top: 100px">Proyectos</center>
+
+<center>
+
+<h3 style="width: 200px">Proyectos</h3> | <h3 style="width: 200px">Herramientas</h3> | <h3 style="width: 200px">Imagen</h3> | <h3 style="width: 200px">Links</h3>
+:----:|:----:|:----:|:----:
+Meet landing page <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) | HTML - CSS  | ![](./thumbnail-proyects/landing-meet.jpg) | [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) / [Netlify](https://landingmeet.netlify.app/)
+Newsletter sign-up form with success message <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) | HTML - CSS - JavaScript  | ![](./thumbnail-proyects/newsletter.jpg) | [GitHub](https://github.com/Pablo-Zallio-Dev/newsletter-sign-up-) / [Netlify](https://sign-up-news.netlify.app/)
+
+
+</center>
 
 
 
+<!-- Newsletter sign-up form with success message -->
+<center><h2 style="margin-top: 100px">Herramientas y Lenguajes</center>
 
+<center>
+
+### Estructuracion de codigo
+
+[![My Skills](https://skillicons.dev/icons?i=html,md)](https://skillicons.dev) <br>HTML5
+
+### Diseños y estilos
+[![My Skills](https://skillicons.dev/icons?i=css,tailwind,bootstrap,sass)](https://skillicons.dev)
+
+### Programacion
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+### Control de versiones
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
+### Diseño & Software
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,vscode)](https://skillicons.dev)
 
 
 
