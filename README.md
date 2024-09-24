@@ -42,20 +42,28 @@ Aquí podrás conocer un poco más sobre mí, lo que sé y lo que hago.
 
 ### Estructuracion de codigo
 
-[![My Skills](https://skillicons.dev/icons?i=html,md)](https://skillicons.dev) <br>HTML5
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Glossary/HTML5)[![My Skills](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
 
 ### Diseños y estilos
-[![My Skills](https://skillicons.dev/icons?i=css,tailwind,bootstrap,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
 ### Programacion
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ### Control de versiones
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
 
 
 ### Diseño & Software
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://es.wikipedia.org/wiki/Adobe_Photoshop)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
 
 
 
