@@ -22,15 +22,25 @@ Aquí podrás conocer un poco más sobre mí, lo que sé y lo que hago.
 
 <center><h2 style="margin-top: 100px">Proyectos</center>
 
+Meet landing page - [Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) / HTML - CSS /  [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) - [Netlify](https://landingmeet.netlify.app/) <br>
+Newsletter sign-up form with success message - [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) / HTML - CSS - JavaScript / [GitHub](https://github.com/Pablo-Zallio-Dev/newsletter-sign-up-) / [Netlify](https://sign-up-news.netlify.app/)
+
+| Left-aligned | Center-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |           ---: |          ---: |
+| git status   | git status     |  git status    | git status    |
+| git diff     | git diff       |  git diff      | git diff      |
+
+
+<!-- 
 <center>
 
 <h3 style="width: 200px">Proyectos</h3> | <h3 style="width: 200px">Herramientas</h3> | <h3 style="width: 200px">Imagen</h3> | <h3 style="width: 200px">Links</h3>
-:----:|:----:|:----:|:----:
-Meet landing page <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) | HTML - CSS  | ![](./thumbnail-proyects/landing-meet.jpg) | [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) / [Netlify](https://landingmeet.netlify.app/)
+:----:|:----:|:----:|:----
+ | HTML - CSS  | ![](./thumbnail-proyects/landing-meet.jpg) | [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) / [Netlify](https://landingmeet.netlify.app/)
 Newsletter sign-up form with success message <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) | HTML - CSS - JavaScript  | ![](./thumbnail-proyects/newsletter.jpg) | [GitHub](https://github.com/Pablo-Zallio-Dev/newsletter-sign-up-) / [Netlify](https://sign-up-news.netlify.app/)
 
 
-</center>
+</center> -->
 
 
 
