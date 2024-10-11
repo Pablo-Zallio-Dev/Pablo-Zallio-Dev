@@ -28,7 +28,7 @@ Aquí podrás conocer un poco más sobre mí, lo que sé y lo que hago.
 | Proyecto | Tecnologias | Imagen | Right-aligned |
 | :---:    |     :---:      |           :---: |          :---: |
 | Meet landing page <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR)    | HTML - CSS     |  ![](./thumbnail-proyects/landing-meet.jpg)   | [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) - [Netlify](https://landingmeet.netlify.app/)     |
-| Newsletter sign-up form with success message <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv)      | HTML - CSS - JavaScript |  ![](./thumbnail-proyects/newsletter.jpg)      | [GitHub](https://github.com/Pablo-Zallio-Dev/newsletter-sign-up-) - [Netlify](https://sign-up-news.netlify.app/)      |
+| Oh Studio Projects <br> [Frontend Practice](https://www.frontendpractice.com/projects/oh-studio)      | HTML - CSS - JavaScript |  ![](./thumbnail-proyects/oh-studio.jpg)      | [GitHub](https://github.com/Pablo-Zallio-Dev/oh-studio) - [Netlify](https://oh-studio-landing.netlify.app/)      |
 
 </div>
 
