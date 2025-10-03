@@ -1,67 +1,63 @@
 
 
 
-
-<center> <h1> Pablo Zallio - Frontend Developer </h1> </center>
-
-
- Hola 🙋‍♂️, mi nombre es Pablo, soy ***Frontend developer*** y me apasiona transformar ideas en experiencias atractivas y funcionales, siempre aprendiendo y mejorando mis habilidades.
-
-Aquí podrás conocer un poco más sobre mí, lo que sé y lo que hago.
+![Hola](assets/image-header.jpg)
 
 <center>
-<a href="https://github.com/Pablo-Zallio-Dev"><img src="https://img.shields.io/badge/GitHub-grey?style=plastic&logo=github&logoColor=white&labelColor=black"></a>
-<a href="https://www.linkedin.com/in/pablo-zallio-140b83278/"><img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=white&labelColor=black"></a>
-<a href="mailto:pablozalliodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white&labelColor=black
-"></a>
 
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-%231C76B8?style=for-the-badge&logo=CSS&labelColor=black)
+![Static Badge](https://img.shields.io/badge/javascript-%23FBD709?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-%2381E0FF?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/typescript-%23097ECE?style=for-the-badge&logo=typescript&labelColor=black)
+
+![Static Badge](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&labelColor=black)
+![Static Badge](https://img.shields.io/badge/tailwind-%231FBEBA?style=for-the-badge&logo=tailwindcss&labelColor=black)
+![Static Badge](https://img.shields.io/badge/bootstrap-%237E18F8?style=for-the-badge&logo=bootstrap&labelColor=black)
+
+
+
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&labelColor=black)
+![Static Badge](https://img.shields.io/badge/figma-%23F25425?style=for-the-badge&logo=figma&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=markdown&labelColor=black)
 </center>
 
-
-<center><h2 style="margin-top: 100px">Proyectos</center>
-
-
-<div align="center">
-
-| Proyecto | Tecnologias | Imagen | Right-aligned |
-| :---:    |     :---:      |           :---: |          :---: |
-| Tip Calculator App <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)    | HTML - CSS     |  ![](./thumbnail-proyects/tip-calculator-app.jpg)   | [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) - [Netlify](https://landingmeet.netlify.app/)     |
-| Oh Studio Projects <br> [Frontend Practice](https://www.frontendpractice.com/projects/oh-studio)      | HTML - CSS - JavaScript |  ![](./thumbnail-proyects/oh-studio.jpg)      | [GitHub](https://github.com/Pablo-Zallio-Dev/oh-studio) - [Netlify](https://oh-studio-landing.netlify.app/)      |
-| Dictionary Web <br> [Frontend Practice](https://www.frontendpractice.com/projects/oh-studio)      | React - CSS - TypeScript |  ![](./thumbnail-proyects/image-dictionary.jpg)      | [GitHub](https://github.com/Pablo-Zallio-Dev/dictionary-app) - [Vercel](https://dictionary-app-one-gamma.vercel.app/)      |
-
-</div>
-
-
-
-
+<center> <h1>
+Pablo Zallio - pd Developer 
+</h1></center>
 <!-- Newsletter sign-up form with success message -->
-<center><h2 style="margin-top: 100px">Herramientas y Lenguajes</center>
-
 <center>
+<h3> Apasionado por transformar ideas en experiencias digitales atractivas y funcionales. </h3>
+</center>
 
-### Estructuracion de codigo
+## Conoceme..
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Glossary/HTML5)[![My Skills](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
+ ¡Hola! 🙋‍♂️ Soy Pablo, trabajo dia a dia para dar vida a los diseños y transformarlos en soluciones web excepcionales. 
+ 
+ **Mi enfoque:** crear interfaces que sean no solo atractivas, sino también intuitivas, accesibles y robustas 💪.
+ Siempre estoy buscando las últimas herramientas y mejores prácticas en el ecosistema Frontend, para mí, el desarrollo es un viaje constante de aprendizaje y mejora continua.
 
-### Diseños y estilos
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-
-### Programacion
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-
-### Control de versiones
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+**Mi objetivo:** Escribir código limpio y modular que no solo funcione perfectamente, sino que también facilite el mantenimiento y la colaboración en equipo.
 
 
+## Conectate conmigo
 
-### Diseño & Software
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://es.wikipedia.org/wiki/Adobe_Photoshop)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+Este es mi Linkedin, en el encontraras mis trabajos y mucha informacion sobre contenido dekl mundo ***Front***
+
+
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&link=linkedin.com%2Fin%2Fpablo-zallio-140b83278)
+
+
+Y por aqui te dejo mi correo, no dudes en escribirme con cualquier duda, aqui estoy para ayudarte!
+
+![Static Badge](https://img.shields.io/badge/correo-red?style=for-the-badge&link=pablozalliodev%40gmail.com)
+
+
+
+
+
+
+
 
 
 
