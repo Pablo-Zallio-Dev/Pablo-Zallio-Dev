@@ -27,6 +27,7 @@ Aquí podrás conocer un poco más sobre mí, lo que sé y lo que hago.
 | :---:    |     :---:      |           :---: |          :---: |
 | Tip Calculator App <br> [Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)    | HTML - CSS     |  ![](./thumbnail-proyects/tip-calculator-app.jpg)   | [GitHub](https://github.com/Pablo-Zallio-Dev/meet__landing__page) - [Netlify](https://landingmeet.netlify.app/)     |
 | Oh Studio Projects <br> [Frontend Practice](https://www.frontendpractice.com/projects/oh-studio)      | HTML - CSS - JavaScript |  ![](./thumbnail-proyects/oh-studio.jpg)      | [GitHub](https://github.com/Pablo-Zallio-Dev/oh-studio) - [Netlify](https://oh-studio-landing.netlify.app/)      |
+| Dictionary Web <br> [Frontend Practice](https://www.frontendpractice.com/projects/oh-studio)      | React - CSS - TypeScript |  ![](./thumbnail-proyects/image-dictionary.jpg)      | [GitHub](https://github.com/Pablo-Zallio-Dev/dictionary-app) - [Vercel](https://dictionary-app-one-gamma.vercel.app/)      |
 
 </div>
 
