@@ -44,12 +44,12 @@ Pablo Zallio - pd Developer
 
 Este es mi Linkedin, en el encontraras mis trabajos y mucha informacion sobre contenido dekl mundo ***Front***
 
-<a href="https://www.linkedin.com/in/pablo-zallio-140b83278"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge">
+<a href="https://www.linkedin.com/in/pablo-zallio-140b83278" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge">
 </a>
 
 Y por aqui mi correo, no dudes en contactarme con cualquier duda!
 
-<a href="mailto:pablozalliodev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/correo-red?style=for-the-badge&labelColor=blue">
+<a href="mailto:pablozalliodev@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/correo-red?style=for-the-badge&labelColor=blue">
 </a>
 
 
